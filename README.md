@@ -1,4 +1,3 @@
-Below is a sample README for a simple React To-Do List app with add, update, and delete features, hosted on GitHub:
 
 ---
 
@@ -55,7 +54,7 @@ This is a simple React To-Do List application with features to add, update, and 
 
 ## Demo
 
-You can find a live demo of the application [here]https://to-do-list-woad-three.vercel.app/).
+You can find a live demo of the application [here](https://to-do-list-woad-three.vercel.app/).
 
 ## Contributing
 
